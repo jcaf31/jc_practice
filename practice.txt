@@ -1,4 +1,5 @@
-___Esto es un Header___
+Esto es un Header
+_______________
 body
 _______________
 Esto es un footer
